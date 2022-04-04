@@ -25,7 +25,7 @@ To install this program you will need to first remove it from the .tgz file. I h
     
     Step 10. Follow instructions under Run program heading.
 
-![If you can't see this .gif please follow the above steps](.gif)
+![If you can't see this .gif please follow the above steps](https://github.com/jaz2020aus/project_images/blob/main/tty.gif)
 
 **Requirements**\
 [Python](https://www.python.org/) program running on any supported OS environment including [Windows](https://www.microsoft.com/en-au/windows), [MacOS](https://www.apple.com/au/macos/monterey/), [Linux](https://www.linux.org/).
