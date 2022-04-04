@@ -7,19 +7,23 @@ To install this program you will need to first remove it from the .tgz file. I h
 
     Step 1. Type: cd ~/ # press enter key (ensure you are in the home directory)
 
-    Step 2. Type: ls # press enter key(to confirm that pt1.tgz file exists if not contact support)
+    Step 2. Type: ls # press enter key(to confirm that pt1.tgz file exists if not contact support
 
     Step 3. Type: mkdir busstop # press enter key (create a folder to store the program in)
+    
+    Step 4. Type: ls # press enter key (check that the directory busstop has been created if not repeat step 3)
 
-    Step 4. Type: mv pt1.tgz ~/busstop/ # press enter key (moves the file pt1.tgz to the busstop directory)
+    Step 5. Type: mv pt1.tgz ~/busstop/ # press enter key (moves the file pt1.tgz to the busstop directory)
 
-    Step 5. Type: cd ~/busstop # press enter key (change to the busstop directory)
+    Step 6. Type: cd ~/busstop # press enter key (change to the busstop directory)
+    
+    Step 7. Type: ls # press enter key (ensure that the pt1.tgz file has been moved to the busstop directory, if not go to step 1 then step 2 then step 5)
 
-    Step 6. Type: tar -zxf pt1.tgz # press enter key (extract files to current directory (~/busstop))
+    Step 8. Type: tar -zxf pt1.tgz # press enter key (extract files to current directory (~/busstop))
 
-    step 7. Type: ls # press enter key ( you should now show 3 files busstop.py, README.md and pt1.tgz. If files missing go back to step 1)
-
-    Step 8. Type: ./busstop.py # press enter key ( to start the program, if the program doesn't start ensure all steps were followed, if it still wont start please contact support)
+    Step 9. Type: ls # press enter key ( you should now show 3 files busstop.py, README.md and pt1.tgz. If files missing go back to step 1)
+    
+    Step 10. Follow instructions under Run program heading.
 
 ![If you can't see this .gif please follow the above steps](.gif)
 
